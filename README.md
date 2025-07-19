@@ -1,5 +1,4 @@
 # IPHunter 🔥
-![image](https://github.com/user-attachments/assets/be4d1a0b-d0cb-4f8b-848f-73bde3d1909d)
 - **A simple IP logger that sends visitor IPs to Discord via webhook.**
 - **version 1.0 ✅**
 
